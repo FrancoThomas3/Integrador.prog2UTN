@@ -49,5 +49,5 @@ El código está estructurado en capas para separar responsabilidades y facilita
 
 A continuación, se encuentran los enlaces a los recursos obligatorios de la entrega:
 
-* **Documentación Técnica (PDF):** [Link al PDF o indicar "Se encuentra en la raíz del repositorio"]
-* **Video Demostrativo:** [INSERTAR LINK DEL VIDEO AQUÍ]
+* **Documentación Técnica (PDF):** [El archivo se encuentra en la raíz del repositorio como `informe-integrador-programacion-2.pdf`"]
+* **Video Demostrativo:** [https://drive.google.com/file/d/101Q__uqBz5LSbMPsnbOKDtn69wgremfC/view?usp=sharing]
